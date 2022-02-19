@@ -1,19 +1,23 @@
 body{
-    background-color: 000;
+    background-color: black;
+    color:white;
 }
 p{
-    color: ghostwhite;
-    font-size: 9px;
-    text-align: right;
+    color: white;
+    font-size: medium;
+    text-align: justify;
 }
-
 h2{
     text-align: center;
-    color:darkred;
+    color:white;
 }
-.Jinete_de_la_vida{
-    color: greenyellow;
+.Blog_del_mundo{
     text-align: center;
+    font-size: 3rem;
 }
-
-    
+nav>ul>li{
+    color: yellow;
+}
+article{
+    background-color: rgb(44,43,43);
+}
