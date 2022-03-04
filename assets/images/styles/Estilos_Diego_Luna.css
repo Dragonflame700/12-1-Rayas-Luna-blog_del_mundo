@@ -1,0 +1,31 @@
+body{
+    background-color: blue;
+    color:white;
+}
+p{
+    color: yellow;
+    font-size: medium;
+    text-align: justify;
+}
+h2{
+    text-align: justify;
+    color:white;
+}
+.Blog_del_mundo{
+    text-align: center;
+    font-size: 3rem;
+}
+nav>ul>li{
+    color: red;
+}
+article{
+    background-color: rgb(219, 111, 23);
+}
+.Títulos_Blogs{
+    text-align: center;
+    font-size: xx-large;
+}
+.Espacio{
+    padding: 1.5rem;
+    
+}

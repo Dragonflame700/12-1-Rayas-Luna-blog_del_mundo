@@ -8,7 +8,7 @@ p{
     text-align: justify;
 }
 h2{
-    text-align: center;
+    text-align: justify;
     color:white;
 }
 .Blog_del_mundo{
@@ -20,4 +20,16 @@ nav>ul>li{
 }
 article{
     background-color: rgb(44,43,43);
+}
+.Títulos_blogs{
+    text-align: center;
+    font-size: xx-large;
+}
+.Título_Blog_Zapato{
+    text-align: center;
+    font-size: xx-large;
+}
+.Espacio{
+    padding: 1.5rem;
+    
 }
